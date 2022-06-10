@@ -1,5 +1,6 @@
 Tous les fichier sont catégoriser les fichier rar sont des dossiers 
-
+Il y a des mapping donc verifie
+Chaque catégorie ajoute faut test (je connais aucun script donc aucune s'il marche)
 
 
 
